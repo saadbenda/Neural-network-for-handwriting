@@ -1,0 +1,2 @@
+DataLoader permet de directement charger les données depuis words.txt 
+à remplacer par src/DataLoader si on veut charger depuis le fichier words.txt et non le fichiers words.json
