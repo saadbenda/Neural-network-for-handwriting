@@ -2,7 +2,7 @@
 
 **Projet 2A Ensisa(2018-2019):**
 
-Reconnaissance d’écriture manuscrite par un réseau de neurones artificiel avec `Tensorflow, OpenCV, Keras...` . Handwritten Text Recognition HTR.
+Reconnaissance d’écriture manuscrite par un réseau de neurones artificiel avec `Tensorflow, OpenCV, Keras...` . Handwritten Text Recognition HTR.                                     
 
 
 ![htr](./doc/htr.png)
@@ -13,8 +13,12 @@ Merci également à [**@Harald Scheidl**](https://github.com/githubharald)  pour
 
 #### authors :
 * Melchior OBAME OBAME 
-* Saad BENDAOUD
-
+* Saad BENDAOUD                     
+-----------------------------------------------------------------------------------
+![img1](./doc/img1.jpg)         
+![img2](./doc/img2.jpg)         
+![img2](./doc/img3.jpg)                       
+               
 **Remarque:** au cours de cette lecture , `user_name` fait reférence au nom réel d'un utilisateur.
 ## Lancer la demo | Run demo
 
@@ -252,11 +256,7 @@ More information can be found in [this article](https://towardsdatascience.com/6
 
 \[3\] [Scheidl - Word Beam Search: A Connectionist Temporal Classification Decoding Algorithm](https://repositum.tuwien.ac.at/obvutwoa/download/pdf/2774578)
 
-\[4\] [Marti - The IAM-database: an English sentence database for offline handwriting recognition](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)
------------------------------------------------------------------------------------
-![img1](./doc/img1.jpg)         
-![img2](./doc/img2.jpg)        
-![img2](./doc/img3.jpg)      
+\[4\] [Marti - The IAM-database: an English sentence database for offline handwriting recognition](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)                 
 
 
 
