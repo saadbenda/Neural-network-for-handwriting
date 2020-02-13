@@ -253,3 +253,10 @@ More information can be found in [this article](https://towardsdatascience.com/6
 \[3\] [Scheidl - Word Beam Search: A Connectionist Temporal Classification Decoding Algorithm](https://repositum.tuwien.ac.at/obvutwoa/download/pdf/2774578)
 
 \[4\] [Marti - The IAM-database: an English sentence database for offline handwriting recognition](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)
+-----------------------------------------------------------------------------------
+![img1](./doc/img1.jpg)         
+![img2](./doc/img2.jpg)        
+![img2](./doc/img3.jpg)      
+
+
+
